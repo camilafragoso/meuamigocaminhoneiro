@@ -1,4 +1,4 @@
-header {
+.header {
     height: 30%;
     display: flex;
     align-items: center;
@@ -87,19 +87,4 @@ header {
     color: black;
  }
 
- .bodydiv {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    margin-top: 40%;
- }
-
- .iniciar {
-    border-radius: 50px;
-    height: 100px;
-    width: 100px;
-    margin-top: 20px;
-    border-color: #f3bc00;
-    background-color: #f3bc00;
-   }
+ 
