@@ -1,0 +1,105 @@
+header {
+    height: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f3bc00;
+ }
+ 
+ .logo {
+    margin-top: 20%;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 20%;
+    height: 100px;
+    width: 150px;
+    background-color: #f3bc00;
+ }
+ 
+ .body {
+    height: 600px;
+    margin-top: 0;
+ }
+ 
+ * {
+    image-resolution: 400px;
+    margin: 0px;
+ }
+ 
+ .box {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   margin-left: 10%;
+   margin-right: 10%;
+   margin-bottom: 10%;
+   margin-top: 0;
+   border: 1px solid #eee;
+   border-radius: 10px;
+   box-shadow: 0 2px 2px #ccc;
+   width: 70%;
+   height: auto;
+   padding: 20px;
+   background-color: white;
+ }
+ 
+ .input {
+    border-top: unset;
+    border-left: unset;
+    border-right: unset;
+    border-bottom: 1px solid grey;
+    margin-top: 10%;
+    background-color: white;
+    width: 80%;
+ }
+ 
+ .senha {
+    border-top: unset;
+    border-left: unset;
+    border-right: unset;
+    border-bottom: 1px solid grey;
+    margin-top: 10%;
+    background-color: white;
+    width: 80%;
+ }
+ 
+ .botao{
+    display: flex;
+    align-self: center;
+    align-content: center;
+    margin-top: 10%;
+    padding: 10px;
+    background-color: #f3bc00;
+    border-color: white;
+    border-radius: 10%;
+    text-shadow: black 5px;
+ }
+ 
+ .end {
+    display: flex;
+    margin-top: 30%;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20%;
+ }
+ 
+ .link {
+    color: black;
+ }
+
+ .bodydiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 40%;
+ }
+
+ .iniciar {
+    border-radius: 50px;
+    height: 100px;
+    width: 100px;
+    margin-top: 20px;
+    border-color: #f3bc00;
+    background-color: #f3bc00;
+   }
